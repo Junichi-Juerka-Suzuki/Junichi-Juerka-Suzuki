@@ -7,6 +7,9 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love Ramen!
 
+# My Gists
+1. [sound recognition (in Japanese)](https://gist.github.com/Junichi-Juerka-Suzuki/1173e3131e6790afb2580b0f8fecfd50)
+
 <!---
 Junichi-Juerka-Suzuki/Junichi-Juerka-Suzuki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
